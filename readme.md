@@ -1,6 +1,5 @@
-md5 Checksum Checker Python API
+# md5 Checksum Checker Python API
 
-===============================
 
 Version: 1.0
 
@@ -26,12 +25,13 @@ Usage Instructions:
 
 Example Usage:
 --------------
-```python
+```
 from md5_checksum import calculate_md5
 
 file_path = "path/to/your/file"
 md5_checksum = calculate_md5(file_path)
-print("MD5 Checksum:", md5_checksum)```
+print("MD5 Checksum:", md5_checksum)
+```
 
 Running the Program:
 --------------------
